@@ -1,0 +1,3 @@
+- fix forward angle filter
+- fix "stay in bounds"
+- maybe fix cohesion & separation
